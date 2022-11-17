@@ -12,13 +12,13 @@ The purpose of this challenge was to assist Dana and her followers in reducing d
 3. Data should be displayed to the right
 
 *Below is an image of the available filters to the left and a sample of all the data presented when the filters are not used:*
-![This is an image](https://github.com/crystdang/Crowdfunding-ETL/blob/main/static/images/empty_filters.png)
+![This is an image](https://github.com/crystdang/UFOs/blob/main/static/images/empty_filters.png)
 
 
 
 *Below is an image of a few inputs to the left and a sample of the reduced data:*
 
-![This is an image](https://github.com/crystdang/Crowdfunding-ETL/blob/main/static/images/used_filters.png)
+![This is an image](https://github.com/crystdang/UFOs/blob/main/static/images/used_filters.png)
 
 
 The two above images show the dynamic table and the filters functioning.
